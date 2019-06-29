@@ -19,5 +19,3 @@ This is an Arcade Game from the Udacity FEND Web development program.
  Payer has 5 lives at the beginning of the game
  Scores can go as high as player wants.
 
-
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
