@@ -2,19 +2,22 @@
 
 ## Table of Contents
 
+- [About Game](#aboutgame)
 - [Instructions](#instructions)
-- [Contributing](#contributing)
 
-## Instructions
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+## About Game
+This is an Arcade Game from the Udacity FEND Web development program.
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
+## Instructions 
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
+ Use the arrow keys to move the player up, down, left and right to wherever a Gem is in other to get points.
+•	Blue Gems: Attains 20 points
+•	Green Gems: Attains 10 points
+•	Orange Gems: Attains 5 points
+ Also try to avoid Players from colliding with Bugs, this will lead to loss of life.
+ Payer has 5 lives at the beginning of the game
+ Scores can go as high as player wants.
+
 
 For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.

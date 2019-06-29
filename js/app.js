@@ -10,7 +10,7 @@
 // have fun! Play away!! 
 
 // let Scores = 0;
-// let Lives = 3;
+// let Lives = 5;
 // let game_over = false;
 
 'use strict'
